@@ -1,5 +1,7 @@
 # Landing page for "Petrichor" project.
 
+Link: https://petrichor-incepe.netlify.app/
+
 This is the landing page for a team project for University.
 
 Technologies used vary from **Blender**(for 3d modelling the scene and animations) to **Netlify**(for deployment).
